@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm David 😺
 
-<!--
-**dmfcat/dmfcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles. 
 
-Here are some ideas to get you started:
+## Stuff I've Built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reference Checker
+
+[View Repo](https://github.com/dmfcat/reference-checker) 
+
+A Python GUI tool that detects AI hallucinated references within documents, made as my final year project during university.
+
+### Film Fetch
+
+[View Repo](https://github.com/dmfcat/film-fetch) 
+
+A Python CLI tool that filtered fetches filmography data for specific cast/crew.
+
+### Canvas Car Game
+
+[View Repo](https://github.com/dmfcat/canvas-car-game) | [Play Online](https://dmfcat.github.io/canvas-car-game/)
+
+An arcade style HTML canvas game made with JavaScript.
+
+## Contact
+
+[Email](mailto:david@dmfcat.net)
+
+[Website](https://dmfcat.net)
+
+────୨ৎ────
