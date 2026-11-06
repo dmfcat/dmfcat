@@ -2,7 +2,7 @@
 
 I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles. 
 
-## Stuff I've Built
+## Some Stuff I've Built
 
 ### Reference Checker
 
@@ -22,7 +22,7 @@ A Python CLI tool that filtered fetches filmography data for specific cast/crew.
 
 An arcade style HTML canvas game made with JavaScript.
 
-## Contact
+## Contact Me
 
 [Email](mailto:david@dmfcat.net)
 
