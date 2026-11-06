@@ -16,7 +16,7 @@ A Python GUI tool that detects AI hallucinated references within documents, made
 
 [View Repo](https://github.com/dmfcat/film-fetch) 
 
-A Python CLI tool that filtered fetches filmography data for specific cast/crew.
+A Python CLI tool that fetches filtered filmography data for specific cast/crew.
 
 ### Canvas Car Game
 
