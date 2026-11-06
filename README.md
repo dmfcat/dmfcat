@@ -1,6 +1,8 @@
 ## Hi, I'm David 😺
 
-I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles. 
+I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles.
+
+My best programming language is Python, however I have experience in JavaScript, Go, Ruby, and Java.
 
 ## Some Stuff I've Built
 
