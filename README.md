@@ -10,13 +10,13 @@ My best programming language is Python, however I have experience in JavaScript,
 
 [View Repo](https://github.com/dmfcat/reference-checker) 
 
-A Python GUI tool that detects AI hallucinated references within documents, made as my final year project during university.
+A GUI Python tool that detects AI hallucinated references within documents, made as my final year project during university.
 
 ### Film Fetch
 
 [View Repo](https://github.com/dmfcat/film-fetch) 
 
-A Python CLI tool that fetches filtered filmography data for specific cast/crew.
+A CLI Python tool that fetches filtered filmography data for specific cast/crew.
 
 ### Canvas Car Game
 
