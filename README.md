@@ -1,4 +1,4 @@
-## Hi, I'm David 😺
+# Hi, I'm David 😺
 
 I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles in the UK.
 
