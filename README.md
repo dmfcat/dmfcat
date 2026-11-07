@@ -26,8 +26,6 @@ An arcade style HTML canvas game made with JavaScript.
 
 ## Contact Me
 
-[Email](mailto:david@dmfcat.net)
-
-[Website](https://dmfcat.net)
+[Email](mailto:david@dmfcat.net) | [Website](https://dmfcat.net)
 
 ────୨ৎ────
