@@ -16,6 +16,12 @@ A GUI Python tool that detects AI hallucinated references within documents, made
 
 A CLI Python tool that fetches filtered filmography data for specific cast/crew.
 
+### yamht
+
+[View Repo](https://github.com/dmfcat/yamht)
+
+A minimalist website theme for Hugo.
+
 ### Canvas Car Game
 
 [View Repo](https://github.com/dmfcat/canvas-car-game) | [Play Online](https://dmfcat.github.io/canvas-car-game/)
