@@ -2,8 +2,6 @@
 
 I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles in the UK.
 
-My best programming language is Python, however I have experience in JavaScript, Go, Ruby, and Java.
-
 ## Some Stuff I've Built
 
 ### Reference Checker
