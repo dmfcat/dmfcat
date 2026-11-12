@@ -2,7 +2,11 @@
 
 I'm a recent computer science graduate from Cardiff University, currently looking for junior tech roles in the UK.
 
-## Some Stuff I've Built
+[Email](mailto:david@dmfcat.net) | [Website](https://dmfcat.net)
+
+────୨ৎ────
+
+## Select Projects
 
 ### Reference Checker
 
@@ -27,9 +31,3 @@ A minimalist website theme for Hugo.
 [View Repo](https://github.com/dmfcat/canvas-car-game) | [Play Online](https://dmfcat.github.io/canvas-car-game/)
 
 An arcade style HTML canvas game made with JavaScript.
-
-## Contact Me
-
-[Email](mailto:david@dmfcat.net) | [Website](https://dmfcat.net)
-
-────୨ৎ────
